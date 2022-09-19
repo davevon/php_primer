@@ -27,5 +27,8 @@ echo '<h1>My age is: '.$age.' </h1>';
 echo "<h1> my name is : $name</h1>";
 ?>
 <button type="button" class="btn btn-dark" >click me</button>  
+<button type="button" class="btn btn-success" >click me</button>  
+<button type="button" class="btn btn-primary" >click me</button>  
+
 <?php require 'includes/footer.php'
 ?>
